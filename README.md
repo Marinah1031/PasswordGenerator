@@ -28,3 +28,4 @@
 - Help from tutor Trinh Nguyen, helping me understand for loops better and the importance of keeping track of variables and setting new variables with easy to read labels. 
 - Help from Jesus Emmanuel Perea Bautista (TA) with figuring how my error of the prompt disappearing to get it back to work. 
 - Help from other instructors and TA for basic questions on conditional statements. 
+- Help from google and MDN to explain how forloops work in different scenarios.
