@@ -1,4 +1,5 @@
 # Password Generator
+Here is the deployable link: https://marinah1031.github.io/PasswordGenerator/
 ## The style.css and index.html was provided and did not make any new changes on them. 
 ## All changes made were on javaScript.
 ![Screenshot (29)](https://user-images.githubusercontent.com/125934804/233507861-dc31a21a-9692-4970-a70a-c0da01abc6f9.png)
